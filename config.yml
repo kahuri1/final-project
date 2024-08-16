@@ -1,0 +1,10 @@
+port: 7540
+
+dir: ./web
+
+db:
+  dbname: "scheduler.db"
+
+TODO_PASSWORD: 98760
+
+JWT_SECRET_KEY: "47d8e1f07a7d2c9fe8ed518473699b1492bcf5f5e7a7e17f8f634ba1da763f9c"
